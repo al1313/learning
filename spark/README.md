@@ -6,7 +6,9 @@
 I find the Anaconda distribution is the most convenient because it also comes with notebook (ipython/jupyter) and virtual environment (conda)
 
 I use the 3.5 64bit version
+```
 https://www.continuum.io/downloads
+```
 Note. keep jupyter up to date with
 conda update jupyter
 #### 2. Download and extract spark
