@@ -92,11 +92,11 @@ This should count the number of lines in the README file - 99.
 ### 7. Optional - Set up jupyter for spark
 
 Lastly, if you want to use spark within jupyter, set up the following environment variables
-*PYSPARK\_DRIVER\_PYTHON
+* PYSPARK\_DRIVER\_PYTHON
 ```
 jupyter
 ```
-*PYSPARK\_DRIVER\_PYTHON\_OPTS 
+* PYSPARK\_DRIVER\_PYTHON\_OPTS 
 ```
 notebook
 ```
